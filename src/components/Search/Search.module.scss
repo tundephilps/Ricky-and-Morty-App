@@ -1,0 +1,13 @@
+.input {
+  width: 100%;
+  border-radius: 0.5rem;
+  padding: 10px 15px;
+  background: rgba(235, 248, 255, .04);
+  border: none;
+  color: #fff;
+  outline: 1.5px solid rgba(255, 255, 255, 0.1);
+
+  &:focus {
+    outline: 1.5px solid #00b5cc;
+  }
+}
